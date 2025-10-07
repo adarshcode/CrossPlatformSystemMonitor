@@ -1,0 +1,15 @@
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\bin\Debug\net8.0\Impl.deps.json
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\bin\Debug\net8.0\Impl.dll
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\bin\Debug\net8.0\Impl.pdb
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\bin\Debug\net8.0\Core.dll
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\bin\Debug\net8.0\Core.pdb
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.csproj.AssemblyReference.cache
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.AssemblyInfoInputs.cache
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.AssemblyInfo.cs
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.csproj.CoreCompileInputs.cache
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.csproj.CopyComplete
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.dll
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\refint\Impl.dll
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\Impl.pdb
+C:\Users\z004r44x\Desktop\CrossPlatformSystemMonitor\Impl\obj\Debug\net8.0\ref\Impl.dll
